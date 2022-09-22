@@ -1,4 +1,4 @@
-
+// write a program to show method overriding using a bank class as super class and create some subclass accordingly. 
 class Bank{
 	public static void main (String args[]){
     Indian_Bank ind = new Indian_Bank();
